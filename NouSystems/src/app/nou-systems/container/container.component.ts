@@ -12,4 +12,8 @@ export class ContainerComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  printMessage() {
+    console.log("Hello, nou Systems, Inc.!");
+  }
+
 }
