@@ -9,8 +9,7 @@ export class ContainerComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
-  }
+  ngOnInit(): void {}
 
   printMessage() {
     console.log("Hello, nou Systems, Inc.!");
