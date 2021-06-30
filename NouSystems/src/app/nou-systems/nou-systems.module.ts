@@ -9,7 +9,7 @@ const routes: Routes = [{ path:'', component: ContainerComponent }];
 
 @NgModule({
   declarations: [
-    ContainerComponent
+    // ContainerComponent
     // ButtonComponent
   ],
   imports: [
